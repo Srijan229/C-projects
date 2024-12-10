@@ -1,0 +1,15 @@
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\bin\Debug\page1.exe.config
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\bin\Debug\page1.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\bin\Debug\page1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.csproj.AssemblyReference.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form1.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Properties.Resources.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.csproj.GenerateResource.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.csproj.CoreCompileInputs.cache
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.exe
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.pdb
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form2.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form3.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form4.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form5.resources
+C:\Users\SrijanSanicum\OneDrive - ETON Solutions, LP\Desktop\Project\page1\page1\obj\Debug\page1.Form6.resources
